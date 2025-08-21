@@ -1,0 +1,38 @@
+﻿,
+Variable,
+Diversity,0.843***
+,(0.012)
+Capital,0.079**
+,(0.038)
+Commune,0.100***
+,(0.024)
+Bishop,0.034
+,(0.02)
+People_per_capita,-0.953***
+,(0.009)
+University,0.071***
+,(0.027)
+ρ (Spatial lag),0.488***
+,(0.059)
+W_Diversity,-0.268***
+,(0.038)
+W_Capital,-0.478***
+,(0.082)
+W_Commune,-0.117
+,(0.037)
+W_Bishop,0.025
+,(0.040)
+W_people_per_capita,0.45
+,(0.035)
+W_University,0.079***
+,(0.061)
+W_Log(citypop),0.488***
+,(0.033)
+Observations,1155
+Spatial Pseudo R²,0.942
+Log likelihood,-400.825
+AIC,829.651
+BIC,900.377
+Dependent variable is Log(citypop). Standard errors in parentheses.,
+,
+"*p < 0.1, **p < 0.05, ***p < 0.01",
